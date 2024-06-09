@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: SpringBoot-MongoDB
+
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: mongodb9Jun24
+      username: root
+      password: root
